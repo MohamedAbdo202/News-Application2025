@@ -38,7 +38,11 @@ Arcitcture: MVVM Architecture with Clean Code principles.
 
 API: Handle Custom Dio For Calling Different APIS With Custom Exceptions
 
-State Managment: Cubit (Bloc) for efficient state management.  
+State Managment: Cubit (Bloc) for efficient state management.
+
+Routes: Cuttom Routes For Navigation
+
+Constants: Color,Font Size, Text Style,etc
 
 Responsive: We Use Flutter Screen Util To Handle Sizes in different Mobile Screens
 
