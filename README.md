@@ -42,7 +42,7 @@ API: Handle Custom Dio For Calling Different APIS With Custom Exceptions
 
 State Managment: Cubit (Bloc) for efficient state management.
 
-Routes: Cuttom Routes For Navigation
+Routes: Custom Routes For Navigation
 
 Constants: Color,Font Size, Text Style,etc
 
