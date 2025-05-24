@@ -14,6 +14,8 @@ Steps To Run The Project:
 
 6-Run The project
 
+apiKey => '36e024f30e0c441ca0a5cc8d5c8a75f0'
+
 ## Getting Started
 
 Its News App With Simple UI
@@ -22,9 +24,9 @@ Its News App With Simple UI
 
 • Login Using UI
 
-• Home Page Show The Articles
+• Home Page Show The Articles In US
 
-• Create Function To Get The Articles Based on Categories (initial= Bussiness)
+• Create Function To Get The Articles Based on Categories Selection (initial= Bussiness)
 
 • Article Details Page with full content
 
