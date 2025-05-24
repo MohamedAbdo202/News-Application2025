@@ -22,7 +22,7 @@ Its News App With Simple UI
 
 • APIs
 
-• Login Using UI
+• Login UI Page
 
 • Home Page Show The Articles In US
 
