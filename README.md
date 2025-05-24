@@ -1,16 +1,53 @@
-# news
+# Digital Hub Task
 
-A new Flutter project.
+Steps To Run The Project:
+
+1- Download the code from Github Folder.ZIP
+
+2-Extract The Folder
+
+3-Open Android Studio And Press Open and Choose The Folder of The Project
+
+4-Oen Terminal and Enter flutter pub get
+
+5-Open Emulator 
+
+6-Run The project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Its News App With Simple UI
 
-A few resources to get you started if this is your first Flutter project:
+• APIs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+• Login Using UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Home Page Show The Articles
+
+• Create Function To Get The Articles Based on Categories (initial= Bussiness)
+
+• Article Details Page with full content
+
+• URL Launcher to open the original article in the browser
+
+• Search For All Article Based on Title
+
+Arcitcture: MVVM Architecture with Clean Code principles.
+
+API: Handle Custom Dio For Calling Different APIS With Custom Exceptions
+
+State Managment: Cubit (Bloc) for efficient state management.  
+
+Responsive: We Use Flutter Screen Util To Handle Sizes in different Mobile Screens
+
+Best Practise:Code Refactoring to separate concerns and enhance reusability.
+
+
+• responsive for Mobiles. Developed using Dart, Flutter, API ,Cubit,MVVM Arcitcture.
+
+Link Video: https://drive.google.com/file/d/1DBWmhxK_v1AUY1vMVu-7G_wD1a5KrjCD/view?usp=sharing
+
+APKLink: https://drive.google.com/file/d/1amEKR9gxSTeuaj04Zu1ev_CXNsbkRcaH/view?usp=sharing
+
+
+
