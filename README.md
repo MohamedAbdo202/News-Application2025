@@ -28,6 +28,8 @@ Its News App With Simple UI
 
 • Create Function To Get The Articles Based on Categories Selection (initial= Bussiness)
 
+• Articles are refreshed dynamically when selecting a category, allowing users to instantly view news filtered by their chosen topic
+
 • Article Details Page with full content
 
 • URL Launcher to open the original article in the browser
